@@ -2,3 +2,11 @@
 cnn_pytorch_env/
 # Python virtual environment
 tf_denoising_env/
+
+
+data_raw/
+
+data_binary/
+*.h5
+
+delivable2/
