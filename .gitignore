@@ -2,7 +2,9 @@
 cnn_pytorch_env/
 # Python virtual environment
 tf_denoising_env/
-
+nlp-getting-started/
+*.zip
+rnn_env/
 
 data_raw/
 
