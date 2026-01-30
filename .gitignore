@@ -5,10 +5,13 @@ tf_denoising_env/
 nlp-getting-started/
 *.zip
 rnn_env/
-
+captioning/
 data_raw/
-
+transfer_learning/
 data_binary/
 *.h5
 
 delivable2/
+vocab.json
+
+cats_dogs_dataset/
